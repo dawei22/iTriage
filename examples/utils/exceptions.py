@@ -1,0 +1,2 @@
+class AmbiguousAnswerException(Exception):
+    pass

@@ -1,0 +1,2 @@
+transitions==0.8.1
+infermedica-api==0.1.1
